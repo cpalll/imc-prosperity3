@@ -1,4 +1,3 @@
-# imc-prosperity3-norena
 # Summary
 A Python trading bot for designed for the algorithmic trading component of [IMC's Prosperity Trading Competition](https://prosperity.imc.com/) (2025). 
 Our team's algorithm implemented various trading strategies to capitalise on order book data for a range of fictional assets. 
